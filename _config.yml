@@ -1,7 +1,7 @@
 # Setup
 title:               Alden's Blog
 tagline:             ''
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A little bit of learning is a dangerous thing...'                       # Comes up in sidebar
 url:                 http://blog.aldenkane.com
 baseurl:             ''
 paginate:            5
